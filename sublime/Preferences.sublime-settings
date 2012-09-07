@@ -1,0 +1,13 @@
+// Settings in here override those in "Default/Preferences.sublime-settings", and
+// are overridden in turn by file type specific settings.
+// My personal setup that makes me happy.
+{
+	"theme": "Soda Dark.sublime-theme", //obviously, install the theme first
+	"tab_size": 2,
+	"font_face" : "Monaco", //OSX
+	//"font_face" : "Consolas", //WINDOWS
+	"rulers" : [70],
+	"word_wrap" : false,
+	"draw_white_space" : "all",
+	"highlight_modified_tabs" : true
+}
