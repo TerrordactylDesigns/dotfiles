@@ -4,6 +4,7 @@
 {
 	"theme": "Soda Dark.sublime-theme", //obviously, install the theme first
 	"tab_size": 2,
+	"scroll_past_end": true,
 	"font_face" : "Monaco", //OSX
 	//"font_face" : "Consolas", //WINDOWS
 	"rulers" : [70],
