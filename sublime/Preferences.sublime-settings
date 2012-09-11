@@ -1,14 +1,17 @@
-// Settings in here override those in "Default/Preferences.sublime-settings", and
-// are overridden in turn by file type specific settings.
-// My personal setup that makes me happy.
+//My personal setup that makes me happy.
 {
-	"theme": "Soda Dark.sublime-theme", //obviously, install the theme first
-	"tab_size": 2,
-	"scroll_past_end": true,
 	"font_face" : "Monaco", //OSX
-	//"font_face" : "Consolas", //WINDOWS
-	"rulers" : [70],
-	"word_wrap" : false,
-	"draw_white_space" : "all",
-	"highlight_modified_tabs" : true
+  //"font_face" : "Consolas", //WINDOWS
+  "rulers" : [70],
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "word_wrap" : false,
+  "scroll_past_end": true,
+  "draw_white_space" : "all",
+  "trim_trailing_white_space_on_save": true,
+  "shift_tab_unindent": true,
+  "theme": "Soda Dark.sublime-theme",
+  "highlight_modified_tabs" : true,
+  "open_files_in_new_window": false,
+  "show_full_path": true
 }
