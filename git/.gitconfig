@@ -1,0 +1,12 @@
+[user]
+  name = Michael Belardo
+  email = mbelardo1@gmail.com
+[color]
+  branch = auto
+  diff = auto
+  status = auto
+  ui = auto
+[core]
+  editor = subl -n -w
+[alias]
+  hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
