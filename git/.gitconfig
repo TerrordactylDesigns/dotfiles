@@ -10,3 +10,11 @@
   editor = subl -n -w
 [alias]
   hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+  ch = checkout
+  cm = commit
+  cmm = commit -m
+  br = branch
+  st = status
+  ad = add .
+  mrg = merge
+  pom = push origin master
