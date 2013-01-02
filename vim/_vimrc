@@ -11,7 +11,7 @@ set ruler                   " show the cursor position all the time
 set number                  " line numbers
 set showmatch               " brackets/braces
 set mouse=a                 " allow mouse in terminal
-set guifont=Consolas:h12    " font
+set guifont=Consolas:h11    " font
 set list                    " draw line breaks
 set backspace=2             " map backspace key in windows
 colorscheme desert          " so far my favorite
