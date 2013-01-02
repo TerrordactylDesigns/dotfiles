@@ -12,6 +12,5 @@ set showmatch               " brackets/braces
 set mouse=a                 " allow mouse in terminal
 set guifont=Monaco:h12      " font
 set list                    " draw line breaks
-set backspace=2             " map backspace key in windows
 colorscheme desert          " so far my favorite
 
