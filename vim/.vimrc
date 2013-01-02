@@ -17,4 +17,4 @@ set mouse=a                 " allow mouse in terminal
 set guifont=Monaco:h12      " font
 set list                    " draw line breaks
 colorscheme desert          " so far my favorite
-
+syntax on                   " syntax highlighting
