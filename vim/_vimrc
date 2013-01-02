@@ -1,4 +1,9 @@
-" for WINDOWS
+"
+" WINDOWS Vim settings
+" type :echo $HOME 
+" in Vim to find where this file is pathed to on your system
+" may vary from 32/64 bit and should be found with that method
+"
 set autoindent              " automatic indent new lines
 set smartindent             " smart indent true
 set nowrap                  " no word wrap
