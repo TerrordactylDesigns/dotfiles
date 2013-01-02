@@ -1,3 +1,7 @@
+"
+" *NIX Vim settings
+" place in \~ (your user root)
+"
 set autoindent              " automatic indent new lines
 set smartindent             " smart indent true
 set nowrap                  " no word wrap
