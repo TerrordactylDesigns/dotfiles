@@ -9,3 +9,6 @@ Just a few mac tweaks I use.
 
 ###Sublime
 My users setting file for Sublime Text 2.
+
+###Vim
+My macvim settings.
