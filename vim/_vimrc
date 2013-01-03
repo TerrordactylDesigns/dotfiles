@@ -21,3 +21,4 @@ set list                    " draw line breaks
 set backspace=2             " map backspace key in windows
 colorscheme desert          " so far my favorite
 syntax on                   " syntax highlighting
+set smartcase               " lowercase searches are auto case insensitive
