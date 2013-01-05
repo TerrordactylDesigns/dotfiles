@@ -19,3 +19,4 @@ set list                    " draw line breaks
 colorscheme desert          " so far my favorite
 syntax on                   " syntax highlighting
 set smartcase               " lowercase searches are auto case insensitive
+set clipboard=unnamed       " use the clipboard on copy/cut

@@ -1,4 +1,10 @@
+# OSX Files
 .DS_Store
+# Node.js files
 node_modules
 *.log
+# Visual Studio files
 *.suo
+# Vim files
+*.swp
+*.swo
