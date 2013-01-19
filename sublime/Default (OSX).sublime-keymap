@@ -1,0 +1,4 @@
+[
+  // for osX find all that match highlighted
+  { "keys": ["super+3"], "command": "find_all_under" }
+]
