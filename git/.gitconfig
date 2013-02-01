@@ -18,3 +18,4 @@
   ad = add .
   mrg = merge
   pom = push origin master
+  phm = push heroku master
